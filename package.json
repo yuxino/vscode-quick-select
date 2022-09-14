@@ -84,80 +84,80 @@
     "keybindings": [
       {
         "command": "extension.selectSingleQuote",
-        "key": "ctrl+k '",
-        "mac": "cmd+k '",
+        "key": "ctrl+k ctrl+'",
+        "mac": "cmd+k cmd+'",
         "when": "editorFocus"
       },
       {
         "command": "extension.selectDoubleQuote",
-        "key": "ctrl+k shift+'",
-        "mac": "cmd+k shift+'",
+        "key": "ctrl+k ctrl+shift+'",
+        "mac": "cmd+k cmd+shift+'",
         "when": "editorFocus"
       },
       {
         "command": "extension.selectEitherQuote",
-        "key": "ctrl+k ;",
-        "mac": "cmd+k ;",
+        "key": "ctrl+k ctrl+;",
+        "mac": "cmd+k cmd+;",
         "when": "editorFocus"
       },
       {
         "command": "extension.switchQuotes",
-        "key": "ctrl+k shift+;",
-        "mac": "cmd+k shift+;",
+        "key": "ctrl+k ctrl+shift+;",
+        "mac": "cmd+k cmd+shift+;",
         "when": "editorFocus"
       },
       {
         "command": "extension.selectParenthesis",
-        "key": "ctrl+k shift+9",
-        "mac": "cmd+k shift+9",
+        "key": "ctrl+k ctrl+shift+9",
+        "mac": "cmd+k cmd+shift+9",
         "when": "editorFocus"
       },
       {
         "command": "extension.selectBackTick",
-        "key": "ctrl+k `",
-        "mac": "cmd+k `",
+        "key": "ctrl+k ctrl+`",
+        "mac": "cmd+k cmd+`",
         "when": "editorFocus"
       },
       {
         "command": "extension.selectSquareBrackets",
-        "key": "ctrl+k [",
-        "mac": "cmd+k [",
+        "key": "ctrl+k ctrl+[",
+        "mac": "cmd+k cmd+[",
         "when": "editorFocus"
       },
       {
         "command": "extension.selectCurlyBrackets",
-        "key": "ctrl+k shift+[",
-        "mac": "cmd+k shift+[",
+        "key": "ctrl+k ctrl+shift+[",
+        "mac": "cmd+k cmd+shift+[",
         "when": "editorFocus"
       },
       {
         "command": "extension.selectParenthesisOuter",
-        "key": "ctrl+k shift+0",
-        "mac": "cmd+k shift+0",
+        "key": "ctrl+k ctrl+shift+0",
+        "mac": "cmd+k cmd+shift+0",
         "when": "editorFocus"
       },
       {
         "command": "extension.selectSquareBracketsOuter",
-        "key": "ctrl+k ]",
-        "mac": "cmd+k ]",
+        "key": "ctrl+k ctrl+]",
+        "mac": "cmd+k cmd+]",
         "when": "editorFocus"
       },
       {
         "command": "extension.selectCurlyBracketsOuter",
-        "key": "ctrl+k shift+]",
-        "mac": "cmd+k shift+]",
+        "key": "ctrl+k ctrl+shift+]",
+        "mac": "cmd+k cmd+shift+]",
         "when": "editorFocus"
       },
       {
         "command": "extension.selectAngleBrackets",
-        "key": "ctrl+k shift+,",
-        "mac": "cmd+k shift+,",
+        "key": "ctrl+k ctrl+shift+,",
+        "mac": "cmd+k cmd+shift+,",
         "when": "editorFocus"
       },
       {
         "command": "extension.selectInTag",
-        "key": "ctrl+k shift+.",
-        "mac": "cmd+k shift+.",
+        "key": "ctrl+k ctrl+shift+.",
+        "mac": "cmd+k cmd+shift+.",
         "when": "editorFocus"
       }
     ],
